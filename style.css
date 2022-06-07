@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background:#b8c1d4; 
+}
+
+header h1{
+    color:#938c96;
+    font-size: 50px;
+    text-transform: uppercase;
+    margin-left: 16px;
+}
+
+header{
+    background:#745a7c;
+}
+
+nav ul{
+    text-align: center;
+    margin-top: 25px;
+    margin:20px;
+}
+
+nav ul li {
+    text-decoration: none;
+    display: contents;
+    font-size: 23px;
+    color: #745a7c;
+}
+
+section{
+    background: #938c96;
+}
+
+article{
+    text-align: center;
+}
+
+article h2{
+    color: #b8c1d4;
+}
+
+p{
+    padding: 50px;
+}
+    
+.footer ul li{
+    color: #b8c1d4;
+}
